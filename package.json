@@ -1,0 +1,23 @@
+{
+  "name": "desafio-b2w-dev-web",
+  "version": "1.0.0",
+  "description": "Desafio proposta pela B2W Digital para a vaga de Desenvolvedor Web",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniotex/desafio-b2w-dev-web.git"
+  },
+  "author": "Antonio Carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoniotex/desafio-b2w-dev-web/issues"
+  },
+  "homepage": "https://github.com/antoniotex/desafio-b2w-dev-web#readme"
+}
