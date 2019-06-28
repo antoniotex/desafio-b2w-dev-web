@@ -1,4 +1,3 @@
-const getProduct = require('./lib')
+const getProduct = require('./lib').getProduct
 
 module.exports = getProduct
-
