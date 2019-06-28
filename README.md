@@ -44,15 +44,16 @@ getProduct('https://www.americanas.com.br/produto/133718358/')
 ```
 Você deverá ver o resultado abaixo no seu console
 <br>
-<a href="https://i.ibb.co/pnm262d/Screenshot-6.jpg"><img src="https://i.ibb.co/pnm262d/Screenshot-6.jpg" alt="Print do resultado da busca por produto, impresso no terminal" width="400"></a>
+<h1><a href="https://i.ibb.co/pnm262d/Screenshot-6.jpg"><img src="https://i.ibb.co/pnm262d/Screenshot-6.jpg" alt="Print do resultado da busca por produto, impresso no terminal" width="400"></a></h1>
 
-##Testes
+## Testes
+
 Para este módulo foi utilizado o Jest para alguns testes unitários
 <br>
 Acesse o diretório principal do módulo (onde fica o packagee.json) e execute
 ```
 npm test
-
+```
 ## Author
 
 * **Antonio Carlos** - [Github](https://github.com/antoniotex)
