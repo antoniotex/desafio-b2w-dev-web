@@ -15,7 +15,8 @@ const mock = {
 
 describe('Lib directory functions --->>', () => {
   let pageProduct = ''
-  test('function getProduct should return a string', async () => {
+  test('getProduct should be a function / return a string', async () => {
+    expect(typeof getProduct).toEqual('function')
     const data = await getProduct.getProduct(urlMock)
     pageProduct = data
     expect(typeof data).toBe('string')
