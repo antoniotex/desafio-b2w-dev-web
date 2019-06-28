@@ -44,4 +44,4 @@ getProduct('https://www.americanas.com.br/produto/133718358/')
 ```
 Você deverá ver o resultado abaixo no seu console
 ```
-<img src="https://i.ibb.co/pnm262d/Screenshot-6.jpg" alt="Print do resultado da busca por produto, impresso no terminal" width="400">
+<a href="https://i.ibb.co/pnm262d/Screenshot-6.jpg"><img src="https://i.ibb.co/pnm262d/Screenshot-6.jpg" alt="Print do resultado da busca por produto, impresso no terminal" width="400"></a>
