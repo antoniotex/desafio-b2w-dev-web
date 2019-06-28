@@ -11,9 +11,9 @@ Nosso desafio consiste na implementação de um módulo Node.js que permita rece
         + [Jest](https://jestjs.io/)
 
 
-## Executar o projeto
-### Local
-Para executar o projeto em modo de desenvolvimento, você deverá ter a última versão estável do [Node.js](https://nodejs.org/en/download/) instalado em sua máquina.
+## Instruções
+### Clonar e importar o módulo
+Certifique-se que vocêe tenha instalado no seu computador o NodeJS, NPM e GIT
 
 Clone o repositório digitando no seu terminal, no direrório escolhido por você
 ```
@@ -45,3 +45,10 @@ getProduct('https://www.americanas.com.br/produto/133718358/')
 Você deverá ver o resultado abaixo no seu console
 <br>
 <a href="https://i.ibb.co/pnm262d/Screenshot-6.jpg"><img src="https://i.ibb.co/pnm262d/Screenshot-6.jpg" alt="Print do resultado da busca por produto, impresso no terminal" width="400"></a>
+
+##Testes
+Para este módulo foi utilizado o Jest para alguns testes unitários
+<br>
+Acesse o diretório principal do módulo (onde fica o packagee.json) e execute
+```
+npm test
