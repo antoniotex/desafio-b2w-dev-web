@@ -13,7 +13,7 @@ const mock = {
   price: 2199 
 }
 
-describe('Directory lib functions --->>', () => {
+describe('Lib directory functions --->>', () => {
   let pageProduct = ''
   test('function getProduct should return a string', async () => {
     const data = await getProduct.getProduct(urlMock)
