@@ -1,7 +1,7 @@
 <h1 align='center'>Desafio Desenvolvedor Web B2W Digital</h1>
 
 ## Descrição do Projeto
-Nosso desafio consiste na implementação de um módulo Node.js que permita receber o URL de um produto da americanas.com e retorne um JSON com informação deste produto, com base em uma página de produto qualquer do marketplace da [americanas.com.br](https://www.americanas.com.br/).
+Este desafio consiste na implementação de um módulo Node.js que permita receber o URL de um produto da americanas.com e retorne um JSON com informação deste produto, com base em uma página de produto qualquer do marketplace da [americanas.com.br](https://www.americanas.com.br/).
 
 ## Tecnologias
 + Javascript
@@ -13,7 +13,7 @@ Nosso desafio consiste na implementação de um módulo Node.js que permita rece
 
 ## Instruções
 ### Clonar e importar o módulo
-Certifique-se que vocêe tenha instalado no seu computador o NodeJS, NPM e GIT
+Certifique-se que você tenha instalado no seu computador o NodeJS, NPM e GIT
 
 Clone o repositório digitando no seu terminal, no direrório escolhido por você
 ```
@@ -54,7 +54,7 @@ Você deverá ver o resultado abaixo no seu console
 
 Para este módulo foi utilizado o Jest para alguns testes unitários
 <br>
-Acesse o diretório principal do módulo (onde fica o packagee.json) e execute
+Acesse o diretório principal do módulo (onde fica o package.json) e execute
 ```
 npm test
 ```
