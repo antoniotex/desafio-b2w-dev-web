@@ -52,3 +52,11 @@ Para este módulo foi utilizado o Jest para alguns testes unitários
 Acesse o diretório principal do módulo (onde fica o packagee.json) e execute
 ```
 npm test
+
+## Author
+
+* **Antonio Carlos** - [Github](https://github.com/antoniotex)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
